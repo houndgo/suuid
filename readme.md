@@ -2,6 +2,13 @@
 
 A Go library that generates concise, unambiguous, URL-safe UUIDs. Based on and compatible with the Python library shortuuid.
 
+
+## Install
+
+```
+go get github.com/houndgo/suuid
+```
+
 ## Usage
 
 ```go
