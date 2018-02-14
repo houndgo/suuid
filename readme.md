@@ -14,7 +14,7 @@ import (
 
 func main() {
   uid := suuid.New()
-  fmt.Println("\n uuid is: ", uid)
+  fmt.Println("\n uuid is: ", uid) //fnB6fRCHrPqStSXYEs7W73 by uuid is 6e8e463e-d39c-460e-9e62-35192ff11f89
 }
 
 ```
